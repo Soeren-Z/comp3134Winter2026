@@ -1,0 +1,12 @@
+C:\Users\harri>ping 68.183.204.71
+
+Pinging 68.183.204.71 with 32 bytes of data:
+Reply from 68.183.204.71: bytes=32 time=24ms TTL=57
+Reply from 68.183.204.71: bytes=32 time=25ms TTL=57
+Reply from 68.183.204.71: bytes=32 time=39ms TTL=57
+Reply from 68.183.204.71: bytes=32 time=125ms TTL=57
+
+Ping statistics for 68.183.204.71:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 125ms, Average = 53ms

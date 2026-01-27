@@ -1,0 +1,187 @@
+google.ca
+
+Domain Information
+Domain:		google.ca
+Registered On:	2000-10-04
+Expires On:	2026-04-28
+Updated On:	2025-04-28
+Status:		client delete prohibited
+		client transfer prohibited
+		client update prohibited
+		server delete prohibited
+		server transfer prohibited
+		server update prohibited
+Name Servers:	ns1.google.com
+		ns2.google.com
+		ns3.google.com
+		ns4.google.com
+
+Registrar Information
+Registrar:	MarkMonitor International Canada Ltd.
+IANA ID:	not applicable
+URL:		Markmonitor.com
+Abuse Email:	abusecomplaints@markmonitor.com
+Abuse Phone:	+1.2083895740
+
+Registrant Contact
+Name:		Google Canada Corporation
+Organization:	Google Canada Corporation
+Street:		12-111 Richmond St. W
+City:		Toronto
+State:		ON
+Postal Code:	M5H2G4
+Country:	CA
+Phone:		+1.4162146034
+Email:		email@google.com
+
+Administrative Contact
+Name:		Colm Buckley
+Organization:	Google Canada Corporation
+Street:		12-111 Richmond St W
+City:		Toronto
+State:		ON
+Postal Code:	M5H2G4
+Country:	CA
+Phone:		+1.4162146034
+Email:		email@google.com
+
+Technical Contact
+Name:		Colm Buckley
+Organization:	Google Canada Corporation
+Street:		12-111 Richmond St W
+City:		Toronto
+State:		ON
+Postal Code:	M5H2G4
+Country:	CA
+Phone:		+1.4162146034
+Email:		email@google.com
+
+facebook.com
+
+Domain Information
+Domain:		facebook.com
+Registered On:	1997-03-29
+Expires On:	2034-03-30
+Updated On:	2025-04-23
+Status:		client delete prohibited
+		client transfer prohibited
+		client update prohibited
+		server delete prohibited
+		server transfer prohibited
+		server update prohibited
+Name Servers:	a.ns.facebook.com
+		b.ns.facebook.com
+		c.ns.facebook.com
+		d.ns.facebook.com
+
+Registrar Information
+Registrar:	RegistrarSafe, LLC
+IANA ID:	3237
+Abuse Email:	abusecomplaints@registrarsafe.com
+Abuse Phone:	+1-650-308-7004
+
+x.com
+
+Domain Information
+Domain:		x.com
+Registered On:	1993-04-02
+Expires On:	2034-10-20
+Updated On:	2024-12-03
+Status:		client delete prohibited
+		client renew prohibited
+		client transfer prohibited
+		client update prohibited
+Name Servers:	a.r10.twtrdns.net
+		a.u10.twtrdns.net
+		b.r10.twtrdns.net
+		b.u10.twtrdns.net
+		c.r10.twtrdns.net
+		c.u10.twtrdns.net
+		d.r10.twtrdns.net
+		d.u10.twtrdns.net
+
+Registrar Information
+Registrar:	GoDaddy.com, LLC
+IANA ID:	146
+Email:		abuse@godaddy.com
+Abuse Email:	abuse@godaddy.com
+Abuse Phone:	480-624-2505
+
+Registrant Contact
+Name:		Registration Private
+Organization:	Domains By Proxy, LLC
+Street:		DomainsByProxy.com 100 S. Mill Ave, Suite 1600
+City:		Tempe
+State:		Arizona
+Postal Code:	85281
+Country:	US
+Phone:		+1.4806242599
+Email:		https://www.godaddy.com/whois/results.aspx?domain=x.com&action=contactDomainOwner
+
+Technical Contact
+Name:		Registration Private
+Organization:	Domains By Proxy, LLC
+Street:		DomainsByProxy.com 100 S. Mill Ave, Suite 1600
+City:		Tempe
+State:		Arizona
+Postal Code:	85281
+Country:	US
+Phone:		+1.4806242599
+Email:		https://www.godaddy.com/whois/results.aspx?domain=x.com&action=contactDomainOwner
+
+twitter.com
+
+Domain Information
+Domain:		twitter.com
+Registered On:	2000-01-21
+Expires On:	2027-01-21
+Updated On:	2026-01-17
+Status:		client transfer prohibited
+		server delete prohibited
+		server transfer prohibited
+		server update prohibited
+Name Servers:	a.r06.twtrdns.net
+		a.u06.twtrdns.net
+		b.r06.twtrdns.net
+		b.u06.twtrdns.net
+		c.r06.twtrdns.net
+		c.u06.twtrdns.net
+		d.r06.twtrdns.net
+		d.u06.twtrdns.net
+
+Registrar Information
+Registrar:	CSC Corporate Domains, Inc.
+IANA ID:	299
+Email:		admin@internationaladmin.com
+Abuse Email:	domainabuse@cscglobal.com
+Abuse Phone:	8887802723
+
+Registrant Contact
+Organization:	Twitter, Inc.
+State:		CA
+Country:	US
+Email:		https://domaincontact.cscglobal.com/contactholder/twitter.com/registrant
+
+stackoverflow.com
+
+Domain Information
+Domain:		stackoverflow.com
+Registered On:	2003-12-26
+Expires On:	2026-02-02
+Updated On:	2025-01-29
+Status:		client transfer prohibited
+Name Servers:	damian.ns.cloudflare.com
+		sureena.ns.cloudflare.com
+
+Registrar Information
+Registrar:	CSC Corporate Domains, Inc.
+IANA ID:	299
+Email:		admin@internationaladmin.com
+Abuse Email:	domainabuse@cscglobal.com
+Abuse Phone:	8887802723
+
+Registrant Contact
+Organization:	Stack Exchange, Inc.
+State:		NY
+Country:	US
+Email:		https://domaincontact.cscglobal.com/contactholder/stackoverflow.com/registrant

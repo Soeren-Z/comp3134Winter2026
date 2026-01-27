@@ -1,0 +1,13 @@
+root@comp3134Winter2026:~# ping google.ca
+PING google.ca (192.178.192.94) 56(84) bytes of data.
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=1 ttl=113 time=3.20 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=2 ttl=113 time=2.20 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=3 ttl=113 time=2.21 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=4 ttl=113 time=2.32 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=5 ttl=113 time=2.31 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=6 ttl=113 time=2.18 ms
+64 bytes from lcyyzn-in-f94.1e100.net (192.178.192.94): icmp_seq=7 ttl=113 time=2.60 ms
+^C
+--- google.ca ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6007ms
+rtt min/avg/max/mdev = 2.184/2.430/3.204/0.343 ms

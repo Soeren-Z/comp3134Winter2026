@@ -1,0 +1,48 @@
+root@comp3134Winter2026:~# nmap x.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-27 18:21 UTC
+Nmap scan report for x.com (162.159.140.229)
+Host is up (0.0032s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 4.82 seconds
+
+root@comp3134Winter2026:~# nmap -p 3306 facebook.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-27 18:22 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.0026s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 0.30 seconds
+
+root@comp3134Winter2026:~#nmap -p 1-1024 nasa.gov
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-27 18:25 UTC
+Nmap scan report for nasa.gov (192.0.66.108)
+Host is up (0.0024s latency).
+Other addresses for nasa.gov (not scanned): 2a04:fa87:fffd::c000:426c
+Not shown: 1022 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.68 seconds
+
+root@comp3134Winter2026:~#nmap -F georgebrown.ca
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-27 18:26 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0026s latency).
+rDNS record for 198.96.86.176: impact.georgebrown.ca
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.79 seconds
