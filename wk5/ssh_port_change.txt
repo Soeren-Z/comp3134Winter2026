@@ -1,0 +1,3 @@
+service ssh restart
+
+ssh -p 2222 root@68.183.204.71
