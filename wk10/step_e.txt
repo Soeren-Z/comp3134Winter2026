@@ -1,0 +1,5 @@
+To mitigate being able to view files and folders before the html directory, the built in function basename() is used to overwrite the path variable. It returns the trailing name of the path, a file or a directory.
+
+To mitigate being able to look at folders that do not exist the built in functions file_exists() and is_dir() are used to ensure the directory exist before scanning it.
+
+As bonus the input is checked for a dot, '.', to mitigate a user from passing a filename.

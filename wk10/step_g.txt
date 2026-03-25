@@ -1,0 +1,1 @@
+To mitigate the problem of comments being exposed the content was all wrapped in the php tag, and uses the echo function to output the html content and php commenting '//' for the comments. This style of programming is used to maintain the previous content structure.
