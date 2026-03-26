@@ -1,0 +1,7 @@
+1. Information about the valid word are displayed.
+
+2. No results found for an invalid word. Error 404.
+
+3. <script>alert(%27hello%27)</script> in the form displays the error you have been blocked. Error 403.
+
+4. term=<script>alert(%27hello%27)</script> in the url displays the error you have been blocked. Error 403.
