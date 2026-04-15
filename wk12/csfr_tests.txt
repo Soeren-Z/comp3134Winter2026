@@ -1,0 +1,6 @@
+What I noticed when testing csfr_form.php, a CSRF token is created in the session to validate the request.
+This request only succeeds if the session token matches the submitted POST confirmation value. When testing
+with csfr.html changed to target csfr_action.php the request failed because the CSRF token is not generated
+and no value is sent and therefore does not match the session stored token. This shows that even though a
+PHPSESSID session exists, the CSRF protection relies on a matching token, which the attacker cannot access
+or generate.
